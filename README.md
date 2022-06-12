@@ -19,12 +19,12 @@
 15.	https://github.com/KimHeera/OSS_FinalProject.git	(Video: https://youtu.be/Zz6XTYFZg0s)
 16.	https://github.com/22100275/OSS_project_22100275	(Video: https://youtu.be/9C6lC_3W08w)
 17.	https://github.com/habinbea/lifestyle-tracker	(Video: https://youtu.be/_JHpvmcP22M)
-18.	https://github.com/JihunB/WhenInStock.git	(Video: https://youtu.be/2vE4boTr7eA)
-19.	https://github.com/22100355/final_project.git	(Video: https://youtu.be/TolS3l8mDic)
-20.	https://github.com/hannason/OSS_FinalProject	(Video: https://youtu.be/8zgNtP2v7jY)
 
 2/2
 
+18.	https://github.com/JihunB/WhenInStock.git	(Video: https://youtu.be/2vE4boTr7eA)
+19.	https://github.com/22100355/final_project.git	(Video: https://youtu.be/TolS3l8mDic)
+20.	https://github.com/hannason/OSS_FinalProject	(Video: https://youtu.be/8zgNtP2v7jY)
 21.	https://github.com/MsShin-HGU/OSSLab_final	(Video: https://youtu.be/GGAxycEK5-Y)
 22.	https://github.com/aeibby/VotingSystem.git	(Video: https://youtu.be/30UVoBUAej0)
 23.	https://github.com/tmddls17/OSS_Final_Project_AutomaticFaceCamera_PhotoCompositingompositting	(Video: https://youtu.be/v7YFg4Vhv88)
