@@ -12,7 +12,7 @@
 8.	https://github.com/yeseul0900/OSS_Final_Project.git	(Video: https://youtu.be/hydRGaITJa0)
 9.	https://github.com/james98k/oss_p.git	(Video: https://youtu.be/5IV2oXF0ZuE)
 10.	https://github.com/jimin1001/OSSLab_FinalProject	(Video: https://youtu.be/1Qawcg2w8Fg)
-11.	GitHub link is missing	(Video: https://youtu.be/P5Eym2lB2pY)
+11.	https://github.com/22100211ChaewonKim/final.git	(Video: https://youtu.be/P5Eym2lB2pY)
 12.	https://github.com/markFT39/OSSLabFinal	(Video: https://youtu.be/Q-AzC9IC7AY)
 13.	https://github.com/hiphyejun/coursehelper	(Video: https://youtu.be/jTPD8ayAVKM)
 14.	https://github.com/HyeJiKim21700210/Final-Project	(Video: https://youtu.be/ysSYgdQxvaY)
